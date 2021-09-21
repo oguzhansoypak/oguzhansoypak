@@ -15,7 +15,7 @@
 
 <a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" align="center" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" align="center" alt="Matplotlib" height="50"/> </a> 
-<a href="#" target="_blank"> <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" align="center" alt="Tableau" height="50"/> </a>
+<a href="https://public.tableau.com/app/profile/oguzhansoypak" target="_blank"> <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" align="center" alt="Tableau" height="50"/> </a>
 
 
 ## :computer: Python Libraries
@@ -44,7 +44,6 @@
 <a href="#" target="_blank"> <img src="https://smartgyann.files.wordpress.com/2020/05/457-4573752_read-more-on-how-you-can-use-your.png" alt="Google Sheets" height="60" align="top"/> </a> 
 
 
-</p>
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=oguzhansoypak&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=oguzhansoypak&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
