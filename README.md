@@ -20,9 +20,9 @@
 
 ## :computer: Python Libraries
 
-<a href="#" target="_blank"> <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" align="top" alt="Numpy"  width="140"/> </a>
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" align="top" alt="Pandas" height="60" width="140"/> </a>
-<a href="#" target="_blank"> <img src="scipy.png" align="bottom" alt="SciPy" height="45" width="160"/> </a>
+<a href="#" target="_blank"> <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" align="top" alt="Numpy"  width="150"/> </a>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" align="top" alt="Pandas" height="60" width="150"/> </a>
+<a href="#" target="_blank"> <img src="scipy.png" align="bottom" alt="SciPy" height="45" width="150"/> </a>
 
 ## :computer: Languages
 
